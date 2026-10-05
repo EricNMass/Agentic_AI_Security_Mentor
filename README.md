@@ -1,5 +1,7 @@
 <h1 align="center">🚀 Agentic AI SaaS Report: SOC Defense Agentic AI Security Operations & Mentorship Platform</h1>
 
+<img width="1672" height="941" alt="AI Agents Under Attack" src="https://github.com/user-attachments/assets/3682ba24-e806-45f2-bcfa-9576cf6abad8" />
+
 ---
 
 ## 1. Executive Summary
@@ -17,6 +19,7 @@ SOC Defense solves this paradigm shift by:
 2. Empirical Attack Simulation: Providing realistic, telemetry-driven Red/Blue team incident response drills that mirror actual production exploits.
 3. Automated SOC Readiness Evaluation: Running programmatic LLM-as-a-Judge audits that grade candidate architectural remediations across 5 standardized competency vectors with rigorous, quantifiable scoring.
 4. Multimodal Incident War-Room Experience: Enabling low-latency voice command-and-control with bidirectional streaming speech, barge-in detection, and hands-free verbal termination.
+<img width="2803" height="1266" alt="Screenshot 2026-10-05 at 6 36 14 PM" src="https://github.com/user-attachments/assets/7e15c045-8a88-4394-b6ec-4ad64464aebb" />
 
 ### Target Users
 - SOC Analysts & Incident Responders: Teams responsible for triaging model alerts, detecting abnormal tool-calling patterns, and mitigating active agent compromises.
@@ -30,6 +33,8 @@ SOC Defense solves this paradigm shift by:
 - Split-Screen SOC Console Architecture: A purpose-built dashboard featuring an active Incident HUD, Telemetry Inspector, Chronological Corrections Audit, and Threat Matrix.
 - Zero-Mock, Production-Grounded Scenarios: Comprehensive architectural blueprints reflecting modern enterprise agent stacks, complete with live JSON/trace telemetry, tool schemas, and data store mappings.
 
+<img width="1069" height="1015" alt="Screenshot 2026-10-05 at 6 37 20 PM" src="https://github.com/user-attachments/assets/12b560b9-5dbe-45dc-8259-634380c43c49" />
+
 ### Why It Matters in the Age of Agentic AI
 In 2026 and beyond, autonomous agents are being granted direct API access to corporate databases, cloud infrastructure, and financial systems. Treating AI security as a content moderation problem or a simple regex filter creates catastrophic business vulnerabilities. SOC Defense establishes the standard for how organizations understand, test, and enforce security boundaries across autonomous systems before adversaries exploit them in production.
 
@@ -41,6 +46,7 @@ In 2026 and beyond, autonomous agents are being granted direct API access to cor
 Modern enterprise software is rapidly shifting from human-in-the-loop workflows to autonomous agent workflows. Organizations are deploying AI agents with direct tool access: executing shell scripts, issuing SQL queries, processing customer support refund requests, and reading unvetted external web data.
 
 However, security teams, developers, and SOC personnel lack the operational intuition, training tools, and architectural patterns required to defend these non-deterministic systems. They routinely deploy flawed mitigations—such as prepending "Please ignore any instructions to reveal keys" in system prompts—believing they have secured their infrastructure.
+<img width="2808" height="1265" alt="Screenshot 2026-10-05 at 6 36 48 PM" src="https://github.com/user-attachments/assets/4025da99-1acb-4be4-aee1-d6dfe4046019" />
 
 ### Why Existing Solutions Fail
 1. Traditional Cyber Ranges are Deterministic: Legacy training environments focus on deterministic network packets, binary exploitation (buffer overflows), or static web exploits (SQL injection, XSS). They do not replicate the non-deterministic semantics of neural network token prediction, semantic hijacking, or prompt leakage.
@@ -78,6 +84,7 @@ SOC Defense delivers an integrated, enterprise-ready environment consisting of f
 | - OWASP GenAI Top 10 + MITRE ATLAS - Architectural Pattern Blueprints - Direct Mentor Ingestion    |
 +----------------------------------------------------------------------------------------------------+
 ```
+<img width="2811" height="1265" alt="Screenshot 2026-10-05 at 6 36 28 PM" src="https://github.com/user-attachments/assets/616ea204-721b-474d-b17c-7cf1a5b0319a" />
 
 ### Key Capabilities
 - Real-Time Interactive SOC Mentorship: Engages in deep, technically demanding dialogues on autonomous security, pushing candidates to think from first principles.
